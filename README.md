@@ -109,7 +109,6 @@
 <body>
     <header>
         <h1>Barbearia Italo</h1>
-        <h2>SISTEMA DE PAGAMENTO</h2>
     </header>
     <main>
         <form id="barbersForm">
